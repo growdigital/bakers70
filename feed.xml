@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Bakers70 Gallery</title>
+    <link href="https://growdigital.github.io/bakers70/feed.xml" rel="self" />
+    <link href="https://growdigital.github.io/bakers70" />
+    <updated>2025-04-01T22:04:02+01:00</updated>
+    <author>
+        <name>Martin Hayes</name>
+    </author>
+    <id>https://growdigital.github.io/bakers70</id>
+
+    <entry>
+        <title>Test post</title>
+        <author>
+            <name>Martin Hayes</name>
+        </author>
+        <link href="https://growdigital.github.io/bakers70/test-post.html"/>
+        <id>https://growdigital.github.io/bakers70/test-post.html</id>
+
+        <updated>2025-04-01T21:12:27+01:00</updated>
+            <summary>
+                <![CDATA[
+                    here we go
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://growdigital.github.io/bakers70/media/posts/1/1fe3dbd799e22797.png" alt="" width="710" height="945" sizes="(min-width: 37.5em) 1600px, 88vw" srcset="https://growdigital.github.io/bakers70/media/posts/1/responsive/1fe3dbd799e22797-xs.png 640w ,https://growdigital.github.io/bakers70/media/posts/1/responsive/1fe3dbd799e22797-sm.png 768w ,https://growdigital.github.io/bakers70/media/posts/1/responsive/1fe3dbd799e22797-md.png 1024w ,https://growdigital.github.io/bakers70/media/posts/1/responsive/1fe3dbd799e22797-lg.png 1366w ,https://growdigital.github.io/bakers70/media/posts/1/responsive/1fe3dbd799e22797-xl.png 1600w"></figure>here we go</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

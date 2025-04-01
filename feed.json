@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Bakers70 Gallery",
+    "description": "",
+    "home_page_url": "https://growdigital.github.io/bakers70",
+    "feed_url": "https://growdigital.github.io/bakers70/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Martin Hayes"
+    },
+    "items": [
+        {
+            "id": "https://growdigital.github.io/bakers70/test-post.html",
+            "url": "https://growdigital.github.io/bakers70/test-post.html",
+            "title": "Test post",
+            "summary": "here we go",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://growdigital.github.io/bakers70/media/posts/1/1fe3dbd799e22797.png\" alt=\"\" width=\"710\" height=\"945\" sizes=\"(min-width: 37.5em) 1600px, 88vw\" srcset=\"https://growdigital.github.io/bakers70/media/posts/1/responsive/1fe3dbd799e22797-xs.png 640w ,https://growdigital.github.io/bakers70/media/posts/1/responsive/1fe3dbd799e22797-sm.png 768w ,https://growdigital.github.io/bakers70/media/posts/1/responsive/1fe3dbd799e22797-md.png 1024w ,https://growdigital.github.io/bakers70/media/posts/1/responsive/1fe3dbd799e22797-lg.png 1366w ,https://growdigital.github.io/bakers70/media/posts/1/responsive/1fe3dbd799e22797-xl.png 1600w\"></figure>here we go</p>",
+            "author": {
+                "name": "Martin Hayes"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-04-01T21:12:27+01:00",
+            "date_modified": "2025-04-01T22:04:02+01:00"
+        }
+    ]
+}

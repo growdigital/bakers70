@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://growdigital.github.io/bakers70/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://growdigital.github.io/bakers70/</loc>
+</url>
+<url>
+<loc>https://growdigital.github.io/bakers70/test-post.html</loc>
+<lastmod>2025-04-01T22:04:02+01:00</lastmod>
+<image:image>
+<image:loc>https://growdigital.github.io/bakers70/media/posts/1/1fe3dbd799e22797.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

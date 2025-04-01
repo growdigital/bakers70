@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://growdigital.github.io/bakers70/sitemap.xml
